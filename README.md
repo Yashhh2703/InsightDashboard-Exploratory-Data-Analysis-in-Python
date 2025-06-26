@@ -1,7 +1,7 @@
 # InsightDashboard – Sales Performance EDA Tool
 InsightDashboard is an interactive and user-friendly data analysis tool developed in Python using Streamlit. Designed to simplify exploratory data analysis (EDA), it allows users to upload and analyze sales datasets through dynamic visualizations and intuitive controls. Whether you're a beginner exploring data or a business user seeking insights, this dashboard makes the process of discovering patterns, trends, and anomalies efficient and insightful.
 
-###🔑 Key Features
+### 🔑 Key Features
 Multi-Dataset Upload: Compare and explore multiple datasets in a single dashboard environment.
 
 Interactive Visualizations: Generate charts like bar graphs, pie charts, and scatter plots using Plotly Express.
