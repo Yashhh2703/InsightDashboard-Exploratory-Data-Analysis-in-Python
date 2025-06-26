@@ -1,10 +1,16 @@
-# InsightDashboard
-InsightDashboard is an intuitive and dynamic data analysis tool built with Python. It enables users to seamlessly explore, analyze, and visualize multiple datasets through an interactive dashboard. Whether you're a data enthusiast or a professional, InsightDashboard simplifies the process of extracting insights from raw data, making data analysis more efficient and accessible.
-# Key Features :
-1) Multi-Dataset Support: Upload and analyze multiple datasets simultaneously.
-2) Interactive Visualizations: Generate diverse charts such as bar graphs, pie charts, scatter plots, and more.
-3) Dynamic Filters: Customize and filter data views for deeper insights.
-4) User-Friendly Interface: Designed with simplicity and efficiency in mind.
-5) Custom Enhancements: Incorporates advanced features to stand out from basic tutorials.
-# Purpose :
-InsightDashboard started as a learning project and evolved into a versatile tool to showcase data analysis and visualization skills. It reflects expertise in Python, Streamlit, and data science concepts while offering practical utility for real-world applications.
+InsightDashboard – Sales Performance EDA Tool
+InsightDashboard is an interactive and user-friendly data analysis tool developed in Python using Streamlit. Designed to simplify exploratory data analysis (EDA), it allows users to upload and analyze sales datasets through dynamic visualizations and intuitive controls. Whether you're a beginner exploring data or a business user seeking insights, this dashboard makes the process of discovering patterns, trends, and anomalies efficient and insightful.
+
+🔑 Key Features
+Multi-Dataset Upload: Compare and explore multiple datasets in a single dashboard environment.
+
+Interactive Visualizations: Generate charts like bar graphs, pie charts, and scatter plots using Plotly Express.
+
+Dynamic Filters: Customize your analysis through real-time filtering options for columns and values.
+
+Clean UI: Built with a focus on simplicity, performance, and ease of use.
+
+Advanced Enhancements: Goes beyond basic tutorials by adding flexibility, custom filtering logic, and reusable components.
+
+🎯 Purpose
+This project began as a learning initiative and matured into a professional-grade EDA tool for showcasing data analysis capabilities. It demonstrates proficiency in Python, Streamlit, Pandas, and Plotly, while offering a hands-on solution to visualize and interpret real-world sales data.
